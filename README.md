@@ -1,7 +1,7 @@
 
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; Hello There!, I am
+        <samp>&gt; Hi There!, I am
                 <b><a target="_blank">Ameeya Bhusan Sahoo</a></b>
         </samp>
 </h3>
@@ -11,7 +11,7 @@
         <!-- Intro -->
         <samp>
                 <br>
-                「 I'm a chemist focused on theoretical and computational chemistry</b> 」
+                「 I deal with chemistry; but without test-tubes !!</b> 」
                 <br>
                 <br>
         </samp>
@@ -44,17 +44,23 @@
     <p align="center">
         <p>Find me on</p>
         <!-- Mail -->
-        <a href="mailto:ameeyabhusansahoo5@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        <a href="mailto:ameeyabhusansahoo5@gmail.com" target="_blank">
+            <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/ameeya-bhusan/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/ameeya-bhusan/" target="_blank">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white">
+        </a>
+        <!-- Google Scholar -->
+        <a href="https://scholar.google.com/citations?user=0Qg5YsUAAAAJ&hl=en" target="_blank">
+            <img alt="Google Scholar" src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white">
+        </a>
+        <!-- ORCID -->
+        <a href="https://orcid.org/my-orcid?emailVerified=true&orcid=0009-0009-5974-2942" target="_blank">
+            <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white">
         </a>
     </p>
 </details>
-<br>
-
 <!-- Featured Repositories -->
 #### Featured
 
@@ -68,20 +74,3 @@
 </a>
 </p>
 
-
-
-
-## Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
