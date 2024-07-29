@@ -11,8 +11,7 @@
         <!-- Intro -->
         <samp>
                 <br>
-                「 I deal with chemistry; but without test-tubes !!</b> 」
-                「 If you can think off anything; it's just a matter of my coomand line..!!</b> 」
+                「 I deal with chemistry; but without test-tubes; I pay with the crystal balls from command line !!</b> 」
                 <br>
                 <br>
         </samp>
