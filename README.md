@@ -12,6 +12,7 @@
         <samp>
                 <br>
                 「 I deal with chemistry; but without test-tubes !!</b> 」
+                「 If you can think off anything; it's just a matter of my coomand line..!!</b> 」
                 <br>
                 <br>
         </samp>
