@@ -66,7 +66,7 @@
 
 <p align="center">
 <a href="https://github.com/ameeya-bhusan/VASP_guide">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinbarroso&repo=UVeh-Vis&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ameeya-bhusan&repo=VASP_guide&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/EmanuelContC/EmCC_pres">
