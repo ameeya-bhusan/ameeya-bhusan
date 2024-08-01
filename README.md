@@ -56,7 +56,7 @@
             <img alt="Google Scholar" src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white">
         </a>
         <!-- ORCID -->
-        <a href="https://orcid.org/my-orcid?emailVerified=true&orcid=0009-0009-5974-2942" target="_blank">
+        <a href="https://orcid.org/0009-0009-5974-2942&orcid=0009-0009-5974-2942" target="_blank">
             <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white">
         </a>
     </p>
