@@ -2,7 +2,7 @@
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hi There!, I am
-                <b><a target="_blank">Ameeya Bhusan Sahoo</a></b>
+                <b><a target="_blank">Ameeya</a></b>
         </samp>
 </h3>
 <br>
