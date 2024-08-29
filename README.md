@@ -16,6 +16,7 @@
                 <br>
         </samp>
         <!-- Details Section -->
+        <p>Find me on</p>
         <!-- Mail -->
         <a href="mailto:ameeyabhusansahoo5@gmail.com" target="_blank">
             <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -38,7 +39,6 @@
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
-        <p>Find me on</p>
         <!-- Python -->
         <a  target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=black">
