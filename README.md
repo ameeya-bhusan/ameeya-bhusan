@@ -15,7 +15,7 @@
                 <br>
                 <br>
         </samp>
-        <!-- Technologies -->
+        <!-- Details Section -->
         <!-- Mail -->
         <a href="mailto:ameeyabhusansahoo5@gmail.com" target="_blank">
             <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -34,7 +34,7 @@
         </a>
 </p>
 
-<!-- Details Section -->
+<!-- Technologies -->
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
