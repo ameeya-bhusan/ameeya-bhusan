@@ -30,8 +30,8 @@
             <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white">
         </a>
     </p>
-</details>
-<!-- Intro -->
+</details>        
+        <!-- Intro -->
         <samp>
                 <br>
                 「 I deal with chemistry; but without test-tubes; I pay with the crystal balls from command line !!</b> 」
