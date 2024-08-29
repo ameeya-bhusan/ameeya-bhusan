@@ -16,7 +16,6 @@
                 <br>
         </samp>
         <!-- Details Section -->
-        <p>Find me on</p>
         <!-- Mail -->
         <a href="mailto:ameeyabhusansahoo5@gmail.com" target="_blank">
             <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
