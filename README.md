@@ -33,7 +33,6 @@
         </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=catastropiyush&label=Profile%20views&color=0e75b6&style=flat" alt="ameeya-bhusan" /> </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ameeya-bhusan&label=Visitors&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ameeya-bhusan&label=ProfileViews&color=blueviolet&style=for-the-badge" />
 </p>
