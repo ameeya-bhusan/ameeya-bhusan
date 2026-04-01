@@ -12,7 +12,6 @@
                 <br>
                 「 I deal with chemistry; but without test-tubes; I play with the crystal balls from command line !!</b> 」
                 <br>
-                <br>
         </samp>
         <!-- Details Section -->
         <!-- Mail -->
