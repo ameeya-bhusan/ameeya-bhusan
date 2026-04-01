@@ -35,5 +35,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catastropiyush&label=Profile%20views&color=0e75b6&style=flat" alt="ameeya-bhusan" /> </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameeya-bhusan&show_icons=true&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=ameeya-bhusan&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
