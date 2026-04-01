@@ -34,5 +34,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ameeya-bhusan&label=ProfileViews&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ameeya-bhusan&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
