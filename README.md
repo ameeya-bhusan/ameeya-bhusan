@@ -6,7 +6,6 @@
         </samp>
 </h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=catastropiyush&label=Profile%20views&color=0e75b6&style=flat" alt="catastropiyush" /> </p>
 <p align="center">
         <!-- Intro -->
         <samp>
@@ -33,3 +32,5 @@
             <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white">
         </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=catastropiyush&label=Profile%20views&color=0e75b6&style=flat" alt="catastropiyush" /> </p>
