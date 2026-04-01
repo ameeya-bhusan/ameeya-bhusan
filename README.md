@@ -33,30 +33,3 @@
             <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white">
         </a>
 </p>
-
-<!-- Technologies -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <!-- Python -->
-        <a  target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=black">
-        </a>
-        <!-- Bash -->
-        <a target="_blank"><img alt="Bash"
-                        src="https://img.shields.io/badge/-Bash-02cdf1?style=flat-square&logo=gnubash&logoColor=black">
-        </a>
-        <!-- Linux -->
-        <a  target="_blank"><img alt="Linux"
-                        src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=black">
-        </a>
-        <!-- Github -->
-        <a target="_blank"><img alt="Github"
-                        src="https://img.shields.io/badge/-Github-10172a?style=flat-square&logo=github&logoColor=37bcf8">
-        </a>
-        <!-- Arduino -->
-        <a  target="_blank"><img alt="Chemistry"
-                        src="https://img.shields.io/badge/-Chemistry-00979D?style=flat-square&">
-        </a>
-    </p>
-</details>
