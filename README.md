@@ -9,7 +9,7 @@
         <!-- Intro -->
         <samp>
                 <br>
-                「 I deal with chemistry; but without test-tubes; I play with the crystal balls from command line !!</b> 」
+                「 I deal with chemistry; but without test-tubes; I play with the molecules from command line !!</b> 」
                 <br>
                 <br>
         </samp>
