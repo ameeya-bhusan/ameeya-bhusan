@@ -18,13 +18,6 @@
 💬 Ask me about DFT workflows (BigDFT, PySCF, VASP), matrix sparsity, numerical optimization, data analysis, and how complex physical systems can be reformulated as structured data problems.<br><br>
 ⚡ Fun fact: I work with problems where a single dataset can be a matrix with millions of interacting elements, and extracting patterns from it feels a lot like real-world data science.
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameeya.bhusan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeya-bhusan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeyabhusansahoo5@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=0Qg5YsUAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0009-5974-2942)
-
 # 💻 My Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
@@ -42,6 +35,13 @@
 ## Scientific & High-Performance Computing || Quantum Computing
 
 BigDFT • PySCF • VASP • Qiskit • VQE • KQD • Sparse Linear Algebra • Numerical Optimization • Many-body Physics
+
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameeya.bhusan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeya-bhusan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeyabhusansahoo5@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=0Qg5YsUAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0009-5974-2942)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ameeya-bhusan&icon=0&color=0)](https://visitcount.itsvg.in)
