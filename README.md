@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    Researcher in Computational Chemistry & Quantum Simulation
+    Researcher in Computational Chemistry & Quantum Simulation<br>
     Working on high-dimensional data, sparsity, and computational optimization
   </samp>
 </p>
