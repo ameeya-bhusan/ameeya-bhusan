@@ -27,6 +27,7 @@
 
 # 💻 My Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,11 +39,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## Scientific & High-Performance Computing
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+## Scientific & High-Performance Computing || Quantum Computing
 
-BigDFT • PySCF • VASP • Sparse Linear Algebra • Numerical Optimization
-## Quantum Computing
-Qiskit • VQE • KQD • Many-body Physics
+BigDFT • PySCF • VASP • Qiskit • VQE • KQD • Sparse Linear Algebra • Numerical Optimization • Many-body Physics
 
 [![](https://visitcount.itsvg.in/api?id=ameeya-bhusan&icon=0&color=0)](https://visitcount.itsvg.in)
