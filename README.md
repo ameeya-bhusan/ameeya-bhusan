@@ -5,8 +5,8 @@
 
 <p align="center">
   <samp>
-    Researcher in Computational Chemistry & Quantum Simulation <br>
-    Transitioning into Data Science through high-dimensional data, sparsity, and computational optimization
+    Researcher in Computational Chemistry & Quantum Simulation
+    Working on high-dimensional data, sparsity, and computational optimization
   </samp>
 </p>
 
