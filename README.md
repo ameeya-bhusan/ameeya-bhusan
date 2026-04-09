@@ -48,7 +48,7 @@
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 PySCF • VASP • Sparse Linear Algebra • Numerical Optimization
-
+---
 ### Quantum Computing
 Qiskit • BigDFT • VQE • KQD • Many-body Physics
 ---
