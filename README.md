@@ -18,7 +18,7 @@
 💬 Ask me about DFT workflows (BigDFT, PySCF, VASP), matrix sparsity, numerical optimization, data analysis, and how complex physical systems can be reformulated as structured data problems.<br><br>
 ⚡ Fun fact: I work with problems where a single dataset can be a matrix with millions of interacting elements, and extracting patterns from it feels a lot like real-world data science.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameeya.bhusan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeya-bhusan)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeyabhusansahoo5@gmail.com)
@@ -38,12 +38,12 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Scientific & High-Performance Computing
+## Scientific & High-Performance Computing
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 BigDFT • PySCF • VASP • Sparse Linear Algebra • Numerical Optimization
 ---
-### Quantum Computing
+## Quantum Computing
 Qiskit • VQE • KQD • Many-body Physics
 ---
 [![](https://visitcount.itsvg.in/api?id=ameeya-bhusan&icon=0&color=0)](https://visitcount.itsvg.in)
