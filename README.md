@@ -18,7 +18,7 @@
 💬 Ask me about DFT workflows (BigDFT, PySCF, VASP), matrix sparsity, numerical optimization, data analysis, and how complex physical systems can be reformulated as structured data problems.<br><br>
 ⚡ Fun fact: I work with problems where a single dataset can be a matrix with millions of interacting elements, and extracting patterns from it feels a lot like real-world data science.
 
-# 💻 My Stack:
+# 💻 My Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
