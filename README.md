@@ -11,7 +11,7 @@
 </p>
 
 
-# 💻 My Tech Stack:
+## 💻 My Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,4 +38,4 @@
 ![ORCA](https://img.shields.io/badge/ORCA-Quantum%20Chemistry-228B22?style=for-the-badge)
 ![Gaussian](https://img.shields.io/badge/Gaussian-Electronic%20Structure-B22222?style=for-the-badge)
 
-# 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeya-bhusan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeyabhusansahoo5@gmail.com) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=0Qg5YsUAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0009-5974-2942)
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeya-bhusan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeyabhusansahoo5@gmail.com) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=0Qg5YsUAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0009-5974-2942)
