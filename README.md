@@ -10,12 +10,12 @@
   </samp>
 </p>
 
-!# 💫 About Me:
-🔭 I’m currently working on developing many-body Hamiltonians from first-principles DFT (BigDFT, PySCF) and studying how basis choice impacts sparsity, locality, and computational cost for near-term quantum computing.<br><br>
-🫂 I’m looking to collaborate on projects combining data science, machine learning, and scientific computing, especially involving high-dimensional data, matrix/tensor analysis, and physics-informed models.<br><br>
-🤝 I’m interested in applying my experience to real-world data science problems, particularly in data analysis, feature engineering, model development, and computational workflows.<br><br>
-🌱 I’m currently learning machine learning, statistical modeling, and data visualization using Python, pandas, scikit-learn, and related tools, while connecting them to my work on sparsity, feature extraction, and large-scale numerical data.<br><br>
-💬 Ask me about DFT workflows (BigDFT, PySCF, VASP), matrix sparsity, numerical optimization, data analysis, and how complex physical systems can be reformulated as structured data problems.<br><br>
+# 💫 About Me:
+#🔭 I’m currently working on developing many-body Hamiltonians from first-principles DFT (BigDFT, PySCF) and studying how basis choice impacts sparsity, locality, and computational cost for near-term quantum computing.<br><br>
+#🫂 I’m looking to collaborate on projects combining data science, machine learning, and scientific computing, especially involving high-dimensional data, matrix/tensor analysis, and physics-informed models.<br><br>
+#🤝 I’m interested in applying my experience to real-world data science problems, particularly in data analysis, feature engineering, model development, and computational workflows.<br><br>
+#🌱 I’m currently learning machine learning, statistical modeling, and data visualization using Python, pandas, scikit-learn, and related tools, while connecting them to my work on sparsity, feature extraction, and large-scale numerical data.<br><br>
+#💬 Ask me about DFT workflows (BigDFT, PySCF, VASP), matrix sparsity, numerical optimization, data analysis, and how complex physical systems can be reformulated as structured data problems.<br><br>
 ⚡ Fun fact: I work with problems where a single dataset can be a matrix with millions of interacting elements, and extracting patterns from it feels a lot like real-world data science.
 
 # 💻 My Tech Stack:
