@@ -10,7 +10,7 @@
   </samp>
 </p>
 
-# 💫 About Me:
+!# 💫 About Me:
 🔭 I’m currently working on developing many-body Hamiltonians from first-principles DFT (BigDFT, PySCF) and studying how basis choice impacts sparsity, locality, and computational cost for near-term quantum computing.<br><br>
 🫂 I’m looking to collaborate on projects combining data science, machine learning, and scientific computing, especially involving high-dimensional data, matrix/tensor analysis, and physics-informed models.<br><br>
 🤝 I’m interested in applying my experience to real-world data science problems, particularly in data analysis, feature engineering, model development, and computational workflows.<br><br>
