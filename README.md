@@ -29,6 +29,15 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
 
+![VQE](https://img.shields.io/badge/VQE-Quantum%20Algorithm-6A0DAD?style=for-the-badge)
+![QPE](https://img.shields.io/badge/QPE-Quantum%20Algorithm-4B0082?style=for-the-badge)
+![KQD](https://img.shields.io/badge/KQD-Quantum%20Diagonalization-800080?style=for-the-badge)
+
+![VASP](https://img.shields.io/badge/VASP-DFT%20Simulation-blue?style=for-the-badge)
+![BigDFT](https://img.shields.io/badge/BigDFT-Wavelet%20DFT-00599C?style=for-the-badge)
+![ORCA](https://img.shields.io/badge/ORCA-Quantum%20Chemistry-228B22?style=for-the-badge)
+![Gaussian](https://img.shields.io/badge/Gaussian-Electronic%20Structure-B22222?style=for-the-badge)
+
 ## Scientific & High-Performance Computing || Quantum Computing
 
 BigDFT • PySCF • VASP • Qiskit • VQE • KQD • Sparse Linear Algebra • Numerical Optimization • Many-body Physics
