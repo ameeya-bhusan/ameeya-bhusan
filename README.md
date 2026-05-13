@@ -27,6 +27,6 @@
 
 ## Scientific & High-Performance Computing || Quantum Computing
 
-### BigDFT • PySCF • VASP • Qiskit • VQE • KQD • Sparse Linear Algebra • Numerical Optimization • Many-body Physics
+! BigDFT • PySCF • VASP • Qiskit • VQE • KQD • Sparse Linear Algebra • Numerical Optimization • Many-body Physics
 
 # 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeya-bhusan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeyabhusansahoo5@gmail.com) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=0Qg5YsUAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0009-5974-2942)
