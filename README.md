@@ -33,7 +33,7 @@
 ![QPE](https://img.shields.io/badge/QPE-Quantum%20Algorithm-4B0082?style=for-the-badge)
 ![KQD](https://img.shields.io/badge/KQD-Quantum%20Diagonalization-800080?style=for-the-badge)
 
-![VASP](https://img.shields.io/badge/VASP-DFT%20Simulation-blue?style=for-the-badge)
+![VASP](https://img.shields.io/badge/VASP-blue?style=for-the-badge)
 ![BigDFT](https://img.shields.io/badge/BigDFT-Wavelet%20DFT-00599C?style=for-the-badge)
 ![ORCA](https://img.shields.io/badge/ORCA-Quantum%20Chemistry-228B22?style=for-the-badge)
 ![Gaussian](https://img.shields.io/badge/Gaussian-Electronic%20Structure-B22222?style=for-the-badge)
