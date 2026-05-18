@@ -28,14 +28,14 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
-![VQE](https://img.shields.io/badge/VQE-Quantum%20Algorithm-6A0DAD?style=for-the-badge)
-![QPE](https://img.shields.io/badge/QPE-Quantum%20Algorithm-4B0082?style=for-the-badge)
-![KQD](https://img.shields.io/badge/KQD-Quantum%20Diagonalization-800080?style=for-the-badge)
-
 ![VASP](https://img.shields.io/badge/VASP-blue?style=for-the-badge)
-![BigDFT](https://img.shields.io/badge/BigDFT-Wavelet%20DFT-00599C?style=for-the-badge)
-![ORCA](https://img.shields.io/badge/ORCA-Quantum%20Chemistry-228B22?style=for-the-badge)
-![Gaussian](https://img.shields.io/badge/Gaussian-Electronic%20Structure-B22222?style=for-the-badge)
+![BigDFT](https://img.shields.io/badge/BigDFT-00599C?style=for-the-badge)
+![ORCA](https://img.shields.io/badge/ORCA-228B22?style=for-the-badge)
+![Gaussian](https://img.shields.io/badge/Gaussian-B22222?style=for-the-badge)
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
+![VQE](https://img.shields.io/badge/VQE-6A0DAD?style=for-the-badge)
+![QPE](https://img.shields.io/badge/QPE-4B0082?style=for-the-badge)
+![KQD](https://img.shields.io/badge/KQD-800080?style=for-the-badge)
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeya-bhusan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameeyabhusansahoo5@gmail.com) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=0Qg5YsUAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0009-5974-2942)
