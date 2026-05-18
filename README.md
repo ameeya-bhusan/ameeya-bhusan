@@ -32,7 +32,6 @@
 ![BigDFT](https://img.shields.io/badge/BigDFT-00599C?style=for-the-badge)
 ![ORCA](https://img.shields.io/badge/ORCA-228B22?style=for-the-badge)
 ![Gaussian](https://img.shields.io/badge/Gaussian-B22222?style=for-the-badge)
-
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![VQE](https://img.shields.io/badge/VQE-6A0DAD?style=for-the-badge)
 ![QPE](https://img.shields.io/badge/QPE-4B0082?style=for-the-badge)
